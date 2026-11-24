@@ -1,7 +1,7 @@
 # 🦺 WorkSafe BC Safety Assistant
 **RAG-Powered AI Knowledge Assistant — AI Builders Bootcamp Final Project · Renato Diaz Medina**
 
-**Live app:** `[paste your Streamlit Cloud URL here]`
+**Live app:** https://worksafe-bc-assistant.streamlit.app
 
 A Streamlit chatbot that answers workplace health and safety questions using only official WorkSafeBC guides.
 It retrieves the relevant passages, generates an answer with OpenAI, cites the document and page, and says so
